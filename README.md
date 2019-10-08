@@ -1,5 +1,7 @@
 Implementation of [Verifiable Image Secret Sharing Using Matrix Projection](https://www.sciencedirect.com/science/article/pii/S1110866514000334)
 
+Authors: Joaquin Ormachea, Sebastian Favaron, Diego Orlando
+
 ## Compile and setup
 In the projects root folder open a terminal and run
 
