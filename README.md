@@ -2,7 +2,8 @@ Implementation of [Verifiable Image Secret Sharing Using Matrix Projection](http
 
 ## Compile and setup
 In the projects root folder open a terminal and run
-```./run.sh ; alias imhide="build/src/integration_module/cripto_secreto_compartido"```
+
+```chmod +x run.sh ; ./run.sh ; alias imhide="build/src/integration_module/cripto_secreto_compartido"```
 
 ## Extract from the man page that shows how to use it
 
