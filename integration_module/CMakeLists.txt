@@ -1,0 +1,6 @@
+add_executable(cripto_secreto_compartido main.c)
+
+target_link_libraries(cripto_secreto_compartido PRIVATE bmp_library)
+target_link_libraries(cripto_secreto_compartido PRIVATE steganography)
+target_link_libraries(cripto_secreto_compartido PRIVATE image_secret)
+target_link_libraries(cripto_secreto_compartido PRIVATE m)
