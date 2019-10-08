@@ -5,9 +5,13 @@ Authors: Joaquin Ormachea, Sebastian Favaron, Diego Orlando
 ## Compile and setup
 In the projects root folder open a terminal and run
 
-```chmod +x run.sh ; ./run.sh ; alias imhide="build/src/integration_module/cripto_secreto_compartido"```
+```chmod +x run.sh ; ./run.sh ; cd build/src/integration_module```
 
-## Extract from the man page that shows how to use it
+Then:
+
+```./cripto_secreto_compartido OPTIONS```
+
+## Extract from the man page that shows how to use it (replace imhide with ./cripto_secreto_compartido or create an alias)
 
 ```
 NAME
