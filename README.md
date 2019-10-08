@@ -1,11 +1,12 @@
 ## Extract from the man page that shows how to use it
 
+```
 NAME
-       imhide - hide and distribute/retrieve image in/from other images
+    imhide - hide and distribute/retrieve image in/from other images
 
 SYNOPSIS
-       imhide -d [OPTION...]
-       imhide -r [OPTION...]
+	imhide -d [OPTION...]
+	imhide -r [OPTION...]
 
 DESCRIPTION
 	imhide distributes (and later retrieves) an 8bit bmp image into n 24bit bmp images, from which k (smaller
@@ -29,3 +30,4 @@ OPTIONS
 		-n number: number of the total shadows in which to distribute the secret in a (k, n) scheme
 		-dir directory: directory of the images that will distribute the secret (in case of -d) or directory of
 		     already modified images (in case of -r)(must contain 24bit bmp images)
+```
