@@ -1,3 +1,5 @@
+Implementation of [Verifiable Image Secret Sharing Using Matrix Projection](https://www.sciencedirect.com/science/article/pii/S1110866514000334)
+
 ## Extract from the man page that shows how to use it
 
 ```
